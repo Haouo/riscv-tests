@@ -1,0 +1,4 @@
+[submodule "env"]
+	path = env
+	url = git@github.com:Haouo/riscv-test-env.git
+	branch = no-priv
